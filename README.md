@@ -10,7 +10,7 @@ The Social Networking Application API is designed to facilitate social interacti
 
 1. Clone the repository:
     ```bash
-    git clone 
+    git clone https://github.com/Singh-Sg/accuknox.git
     ```
 2. Navigate to the project directory:
     ```bash
